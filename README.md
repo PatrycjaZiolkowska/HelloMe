@@ -34,3 +34,7 @@ Best regards!
 * Jira
 * TestRail
 * Git
+
+## My test cases&bug reports
+
+![Algorithm schema](Images/TestCase1.png)
