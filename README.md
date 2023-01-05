@@ -39,5 +39,5 @@ Best regards!
 
 * Test Scenario
 ![Algorithm schema](Images/TestCase1.png)
-
 ![Algorithm schema](Images/TestRail QA.png)
+
