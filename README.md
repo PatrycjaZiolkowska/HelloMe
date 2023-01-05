@@ -35,10 +35,10 @@ Best regards!
 * TestRail
 * Git
 
-## My test cases&bug reports
+## My test scenario
 
-* Test Scenario
 ![Algorithm schema](Images/TestCase1.png)
 
-* Test Case made in TestRail QA tool
+## My test case made in TestRailQA tool
+
 ![Algorithm schema](Images/TestRail QA.png)
