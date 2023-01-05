@@ -40,5 +40,4 @@ Best regards!
 * Test Scenario
 ![Algorithm schema](Images/TestCase1.png)
 
-* Test case made in TestRail QA
 ![Algorithm schema](Images/TestRail QA.png)
