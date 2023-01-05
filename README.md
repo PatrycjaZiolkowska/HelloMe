@@ -43,3 +43,7 @@ Best regards!
 
 ![Algorithm schema](Images/TestRailQA.png)
 
+## My bug report made in Jira tool
+
+![Algorithm schema](Images/jira.png)
+
