@@ -40,5 +40,5 @@ Best regards!
 * Test Scenario
 ![Algorithm schema](Images/TestCase1.png)
 
-* My Test Case made in TestRail QA tool
+* Test Case made in TestRail QA tool
 ![Algorithm schema](Images/TestRail QA.png)
