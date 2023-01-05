@@ -41,4 +41,4 @@ Best regards!
 
 ## My test case made in TestRailQA tool
 
-![Algorithm schema](Images/TestRail QA.png)
+![Algorithm schema](Images/TestRail QA.png) 
