@@ -2,7 +2,7 @@
 
 My name is Patrycja Ziółkowska, and I am a student at Postgraduate Studies in Software Testing, currently I am ready to join a QA team. 
  
-I know the Software Development Life Cycle, I understand differences between Scrum and Kanban. 
+I know the Software Development Life Cycle, I understand differences between Scrum and Kanban. :)
 I have knowledge of types of tests and software testing techniques. 
 
 Additionally I made few courses, to develop new skills - Jira, SQL. At school we learnt Linux, so working with terminal isn't something new for me. I am familiar with tools like TestRail, Github, Gitlab.
