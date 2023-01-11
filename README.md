@@ -37,7 +37,7 @@ Best regards!
 
 ## My test scenario
 
-![Algorithm schema](Images/TestCase1.png)
+![Algorithm schema](Images/TestCase_olx.png)
 
 ## My test case made in TestRailQA tool
 
