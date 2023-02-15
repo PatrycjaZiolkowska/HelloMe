@@ -22,19 +22,17 @@ Best regards!
 * Git For Beginners / Udemy
 * JIRA Beginner - Project Management / Udemy
 * SQL for Beginners: Learn SQL using MySQL and Database Design / Udemy
+* ISTQB Foundation Level / Syllabus and book
+* Python for Absolute Beginners / Udemy
 
-## Courses in progress
-
-* Cypress: Automation Testing from Zero to Hero
 
 ## Skills
 
 * Creating test cases and scenarios
 * Reporting bugs
-* SQL
-* Jira
-* TestRail
-* Git
+* Knowledge of testing methods and software design
+* Pay attention to detail
+* Analytical mind
 
 
 ## My test case made in TestRailQA tool
