@@ -2,11 +2,11 @@
 
 Hi! 
 
-My name is Patrycja Ziółkowska, and I am a student at Postgraduate Studies in Software Testing, currently I am ready to join a QA team. 
+My name is Patrycja Ziółkowska, and I have just finished postgraduate studies in Software Testing, currently I am testing for two companies.
  
-I have really good testing knowledge (testing techniques and life cycle, I know creating rules for test cases and reports, i am familiar with tools:GIT, SQL(I really like it), TestRailQA, Jira), so it is a perfect time to start a job. :) 
+I have really good testing knowledge (testing techniques and life cycle, I know creating rules for test cases and reports, i am familiar with tools:GIT, SQL(I really like it), TestRailQA, Jira).
 
-I am ready to work as manual tester, but I am also interested in automation testing, I am constantly learning it at school, and by myself, right now Python - my new love :)
+I am working as manual tester, but I am also interested in automation testing, I am constantly learning and developing myself.
 
 I have a bachelor's degree in English studies, and I am using English daily, so I can easily communicate and write.
 
