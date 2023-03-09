@@ -4,9 +4,9 @@ Hi!
 
 My name is Patrycja Ziółkowska, and I have just finished postgraduate studies in Software Testing, currently I am testing for two companies.
  
-I have really good testing knowledge (testing techniques and life cycle, I know creating rules for test cases and reports, i am familiar with tools:GIT, SQL(I really like it), TestRailQA, Jira).
+I have really good testing knowledge (testing techniques and life cycle, I know creating rules for test cases and reports, i am familiar with tools: Jira for project management, Git for version control, SQL for database management, TestRail for test case management, Python for automation testing, and Linux for operating system management. Overall, I have a strong foundational knowledge in these areas
 
-I am working as manual tester, but I am also interested in automation testing, I am constantly learning and developing myself.
+I am working as manual tester, but I want to develop my skills in programming languages and automation testing tools.
 
 I have a bachelor's degree in English studies, and I am using English daily, so I can easily communicate and write.
 
