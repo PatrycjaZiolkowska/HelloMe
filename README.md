@@ -24,6 +24,7 @@ Best regards!
 * SQL for Beginners: Learn SQL using MySQL and Database Design / Udemy
 * ISTQB Foundation Level / Syllabus and book
 * Python for Absolute Beginners / Udemy
+* Java for Testers / Udemy
 
 
 ## Skills
