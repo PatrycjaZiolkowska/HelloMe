@@ -35,6 +35,10 @@ Best regards!
 * Pay attention to detail
 * Analytical mind
 
+## My JavaJourney repository
+
+I recently started learning Java and created a new repository to document my journey. You can check it out
+[here](https://github.com/PatrycjaZiolkowska/JavaJourney)
 
 ## My test case made in TestRailQA tool
 
@@ -44,8 +48,5 @@ Best regards!
 
 ![Algorithm schema](Images/jira.png)
 
-## My Java repo
 
-I recently started learning Java and created a new repository to document my journey. You can check it out
-[here](https://github.com/PatrycjaZiolkowska/JavaJourney)
 
