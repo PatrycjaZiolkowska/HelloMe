@@ -62,7 +62,13 @@ I recently started learning Java and created a new repository to document my jou
 ## My bug report made in Jira tool
 
 ![Algorithm schema](Images/jira.png)
+
 ![Algorithm schema](Images/tc1.png)
 
+![Algorithm schema](Images/tc2.png)
+
+![Algorithm schema](Images/tc3.png)
+
+![Algorithm schema](Images/tc4.png)
 
 
