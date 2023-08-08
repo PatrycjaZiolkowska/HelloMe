@@ -35,7 +35,9 @@ Best regards!
 
 ## Skills
 
-* Creating test cases and scenarios
+* Mobile, web, and desktop application testing
+* Application audits, analysis, and mockup evaluations
+* Test case and test scenario writing
 * Reporting bugs
 * Knowledge of testing methods and software design
 * Pay attention to detail
