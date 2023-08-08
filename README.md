@@ -48,9 +48,11 @@ Best regards!
 I recently started learning Java and created a new repository to document my journey. You can check it out
 [here](https://github.com/PatrycjaZiolkowska/JavaJourney)
 
-## My test case made in TestRailQA tool
+## My test cases
 
 ![Algorithm schema](Images/TestRailQA.png)
+![Algorithm schema](Images/tc1.png)
+
 
 ## My bug report made in Jira tool
 
