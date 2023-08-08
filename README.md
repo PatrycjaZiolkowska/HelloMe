@@ -8,7 +8,7 @@ I am looking for a challenging and rewarding role in software testing where I ca
 
 Here are some of my additional skills and experience:
 
-* I have performed application audits, analysis, and mockup evaluations.
+* I have performed application audits, analysis, and mockup evaluations.
 * I write test cases and test scenarios.
 * I am motivated and always looking for ways to improve my skills.
 * I am a team player and always willing to help others.
