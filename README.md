@@ -1,14 +1,20 @@
 ## AboutMe
 
-Hi! 
+Hi!
 
-My name is Patrycja Ziółkowska, and I have just finished postgraduate studies in Software Testing, currently I am testing for two companies.
- 
-I have really good testing knowledge (testing techniques and life cycle, I know creating rules for test cases and reports, i am familiar with tools: Jira for project management, Git for version control, SQL for database management, TestRail for test case management, Python for automation testing. Overall, I have a strong foundational knowledge in these areas.
+I'm Patrycja Ziółkowska, a software tester with a passion for quality. I have experience in testing mobile, web, and desktop applications. I am familiar with a variety of testing tools, and I can communicate effectively with both technical and non-technical audiences. I am a hard worker with a strong attention to detail, and I am always willing to go the extra mile. I am also a team player and I am always looking for ways to help others.
 
-I am working as manual tester, but I want to develop my skills in programming languages and automation testing tools.
+I am looking for a challenging and rewarding role in software testing where I can use my skills and experience to make a real difference. I am confident that I can make a significant contribution to your team and help you to deliver high-quality software.
 
-I have a bachelor's degree in English studies, and I am using English daily, so I can easily communicate and write.
+Here are some of my additional skills and experience:
+
+* I have performed application audits, analysis, and mockup evaluations.
+* I write test cases and test scenarios.
+* I am motivated and always looking for ways to improve my skills.
+* I am a team player and always willing to help others.
+* I am open to new challenges and always looking for ways to grow.
+* I have basic knowledge of SQL and Python.
+* I am also a highly independent worker who is able to work effectively on my own. 
 
 Best regards!
 	
