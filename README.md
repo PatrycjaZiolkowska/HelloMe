@@ -51,12 +51,18 @@ I recently started learning Java and created a new repository to document my jou
 ## My test cases
 
 ![Algorithm schema](Images/TestRailQA.png)
-![Algorithm schema](Images/tc1.png)
+
+![Algorithm schema](Images/ts6.png)
+
+![Algorithm schema](Images/ts8.png)
+
+![Algorithm schema](Images/news.png)
 
 
 ## My bug report made in Jira tool
 
 ![Algorithm schema](Images/jira.png)
+![Algorithm schema](Images/tc1.png)
 
 
 
