@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm Patrycja Ziółkowska, a software tester with a passion for quality. I have experience in testing mobile, web, and desktop applications. I am familiar with a variety of testing tools, and I can communicate effectively with both technical and non-technical audiences. I am a hard worker with a strong attention to detail, and I am always willing to go the extra mile. I am also a team player and I am always looking for ways to help others.
+I'm Patrycja Ziółkowska, a software tester with a passion for quality. I have experience in testing mobile, web, desktop applications and production systems. I am familiar with a variety of testing tools, and I can communicate effectively with both technical and non-technical audiences. I am a hard worker with a strong attention to detail, and I am always willing to go the extra mile. I am also a team player and I am always looking for ways to help others.
 
 I am looking for a challenging and rewarding role in software testing where I can use my skills and experience to make a real difference. I am confident that I can make a significant contribution to your team and help you to deliver high-quality software.
 
