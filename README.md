@@ -73,4 +73,6 @@ I recently started learning Java and created a new repository to document my jou
 
 ## Audit report
 
+![Algorithm schema](Images/audyt.jpg)
+
 
