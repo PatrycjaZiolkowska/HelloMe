@@ -20,7 +20,7 @@ Best regards!
 	
 ## Studies
 
-* Uniwersytet WSB Merito Wrocław - Postgraduate Degree, Programista Front-End z Angular - 2024
+* Uniwersytet WSB Merito Wrocław - Postgraduate Degree, Front-End Developer with Angular - 2024
 * Wyższa Szkoła Bankowa w Chorzowie - Postgraduate Degree, Software tester for mobile and server applications - 2023
 * Wyższa Szkoła Filologiczna we Wrocławiu - Bachelor's degree, English philology
 
