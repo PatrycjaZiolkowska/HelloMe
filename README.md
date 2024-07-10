@@ -14,7 +14,6 @@ Here are some of my additional skills and experience:
 * I am motivated and always looking for ways to improve my skills.
 * I am a team player and always willing to help others.
 * I am open to new challenges and always looking for ways to grow.
-* I have knowledge of SQL and Python.
 * I am also a highly independent worker who is able to work effectively on my own. 
 
 Best regards!
