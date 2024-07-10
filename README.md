@@ -56,6 +56,13 @@ Best regards!
 
 ![Algorithm schema](Images/news.png)
 
+## My Postman
+
+![Algorithm schema](Images/postman1.jpg)
+
+![Algorithm schema](Images/postman2.png)
+
+![Algorithm schema](Images/postman3.jpg)
 
 ## My bug report made in Jira tool
 
