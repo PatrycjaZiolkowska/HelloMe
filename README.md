@@ -10,6 +10,7 @@ Here are some of my additional skills and experience:
 
 * I have performed application audits, analysis, and mockup evaluations.
 * I write test cases and test scenarios.
+* I started to write first postman requests 
 * I am motivated and always looking for ways to improve my skills.
 * I am a team player and always willing to help others.
 * I am open to new challenges and always looking for ways to grow.
@@ -20,33 +21,30 @@ Best regards!
 	
 ## Studies
 
-* Wyższa Szkoła Bankowa w Chorzowie - Postgraduate Degree, Software tester for mobile and server applications
+* Uniwersytet WSB Merito Wrocław - Postgraduate Degree, Programista Front-End z Angular - 2024
+* Wyższa Szkoła Bankowa w Chorzowie - Postgraduate Degree, Software tester for mobile and server applications - 2023
 * Wyższa Szkoła Filologiczna we Wrocławiu - Bachelor's degree, English philology
 
 ## Finished courses
 
 * Git For Beginners / Udemy
 * JIRA Beginner - Project Management / Udemy
-* SQL for Beginners: Learn SQL using MySQL and Database Design / Udemy
+* Postman
 * ISTQB Foundation Level / Syllabus and book
 * Python for Absolute Beginners / Udemy
-* Java for Testers / Udemy
+* Java Script
 
 
 ## Skills
 
 * Mobile, web, and desktop application testing
+* Knowledge of Postman
 * Application audits, analysis, and mockup evaluations
 * Test case and test scenario writing
 * Reporting bugs
 * Knowledge of testing methods and software design
 * Pay attention to detail
 * Analytical mind
-
-## My JavaJourney repository
-
-I recently started learning Java and created a new repository to document my journey. You can check it out
-[here](https://github.com/PatrycjaZiolkowska/JavaJourney)
 
 ## My test cases
 
