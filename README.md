@@ -10,7 +10,8 @@ Here are some of my additional skills and experience:
 
 * I have performed application audits, analysis, and mockup evaluations.
 * I write test cases and test scenarios.
-* I started to write first postman requests 
+* Cypress testing JavaScript
+* HTML, CSS
 * I am motivated and always looking for ways to improve my skills.
 * I am a team player and always willing to help others.
 * I am open to new challenges and always looking for ways to grow.
@@ -31,13 +32,13 @@ Best regards!
 * Postman
 * ISTQB Foundation Level / Syllabus and book
 * Python for Absolute Beginners / Udemy
-* Java Script
+* Cypress
 
 
 ## Skills
 
 * Mobile, web, and desktop application testing
-* Knowledge of Postman
+* Knowledge of Cypress, JS, HTML, CSS
 * Application audits, analysis, and mockup evaluations
 * Test case and test scenario writing
 * Reporting bugs
