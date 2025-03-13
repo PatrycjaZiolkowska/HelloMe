@@ -56,6 +56,16 @@ Best regards!
 
 ![Algorithm schema](Images/news.png)
 
+## My CYPRESS
+
+![Algorithm schema](Images/searchBoxFunctionality.png)
+
+![Algorithm schema](Images/filteredCategories.png)
+
+![Algorithm schema](Images/authentication.png)
+
+![Algorithm schema](Images/detailsVisibility.png)
+
 ## My Postman
 
 ![Algorithm schema](Images/postman1.jpg)
